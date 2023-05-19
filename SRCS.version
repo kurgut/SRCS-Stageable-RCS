@@ -1,6 +1,6 @@
 {
   "NAME": "SRCS",
-  "URL": "https://github.com/kurgut/SRCS-Stageable-RCS",
+  "URL": "https://raw.githubusercontent.com/kurgut/SRCS-Stageable-RCS/main/GameData/SRCS/SRCS.version",
   "DOWNLOAD": "https://github.com/kurgut/SRCS-Stageable-RCS/releases",
   "GITHUB": {
     "USERNAME": "kurgut",
